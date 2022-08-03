@@ -1,0 +1,28 @@
+.shoeCard{
+    border-style: groove;
+    border-color: lightsalmon;;
+    box-sizing: border-box;
+    width: 25em;
+ 
+}
+
+.shoeList{
+    display: flex;
+    flex-direction: row;
+}
+.button{
+    color: red;
+    border: 4px solid #4CAF50;
+    width: 150px;
+    transition-duration: 0.8s;
+}
+
+img{
+    height: 10em;
+    width: 11.5em;
+}
+
+button:hover {
+    background-color: #af4c77; 
+    color: rgb(0, 80, 100);
+  }

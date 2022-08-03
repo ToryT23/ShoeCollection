@@ -1,0 +1,11 @@
+.myShoeCard {
+    border-style: groove;
+    border-color: lightsalmon;;
+    box-sizing: border-box;
+    width: 25em;
+}
+
+button {
+    color: lightgreen;
+    background-color: black;
+}
