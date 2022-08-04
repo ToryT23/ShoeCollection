@@ -18,7 +18,7 @@ export const ShoeList = () => {
     const isFavorite = (id) => {
         if(favshoes.find((fav) => fav.shoeId === id))
         {
-         return true
+            return true
         }
         else {
             return false
